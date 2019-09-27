@@ -42,3 +42,9 @@ Con la orden kvm-ok:
 compruebo que puedo utilizar la aceleración por hardware del procesador.
 
 El hipervisor que utilizo es *VirtualBox* ya que lo he estado utilizando en varias asignaturas de la universidad.
+
+## Ejercicio 5
+
+**Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.**
+
+Me he dado de alta en *Heroku*, ya que es un servicio gratuito.
