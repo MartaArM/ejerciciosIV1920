@@ -29,5 +29,16 @@ En la salida, aparece:
 
 ![Sin titulo](./images/flags_tema_1.png)
 
+## Ejercicio 4
 
+**Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Alternativamente (o además), usar lscpu como se indica arriba. **
 
+**Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.**
+
+Con la orden kvm-ok:
+
+![Sin titulo](./images/kvm-ok.png)
+
+compruebo que puedo utilizar la aceleración por hardware del procesador.
+
+El hipervisor que utilizo es *VirtualBox* ya que lo he estado utilizando en varias asignaturas de la universidad.
